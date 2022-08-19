@@ -13,7 +13,7 @@ In this project, I have made simple Chat App using Express js and Socket.io.
        npm start
     
 
-For testing this code you need to copy the path of index.html file 
+For testing this code you need to copy the path of index.html file and then pasty on browser.
 
     
 Happy coding ):
